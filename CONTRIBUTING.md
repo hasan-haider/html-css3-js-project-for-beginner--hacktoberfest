@@ -1,2 +1,3 @@
-Add basic html with explaination for new comers.
-Begineer friendly codes on html css and js
+HTML is a markup language used for web front-end development
+
+[Akilesh Kumar](https://github.com/cyb3r-w0lf)
